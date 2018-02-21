@@ -1,0 +1,1 @@
+imgRestore.d: ../imgRestore.cpp
